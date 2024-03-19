@@ -12,9 +12,9 @@ title                    : "Tang Ying / Site Title"
 title_separator          : "-"
 name                     : &name "Tang Ying"
 description              : &description "Professor"
-url                      :https://letssayhellowrold.github.io/self_introduce/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://letssayhellowrold.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "letssayhellowrold/self_introduce/"
+repository               : "letssayhellowrold/self_introduce"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
